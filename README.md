@@ -1,4 +1,4 @@
-# ibc-community-pool
+# Ibc-community-pool
 Using ibc contracts to manage community pool on foreign chain
 
 ## Motive
