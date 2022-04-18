@@ -21,6 +21,8 @@ From now on, the juno community now has a `foreign community pool` on osmosis. I
 
 ![Alt text](Ibc-community1.png?raw=true "Title")
 
+![Alt text](Ibc-community-2.png?raw=true "Title")
+
 
 
 
