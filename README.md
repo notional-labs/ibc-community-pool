@@ -19,6 +19,8 @@ After that, `juno contract` ebstablish an ibc channel connecting to `osmosis con
 
 From now on, the juno community now has a `foreign community pool` on osmosis. If they want to do something with the foreign pool, they can use wasmd's `ExecuteContractProposal` to command the `juno contract` to send out abitrary `sdk.Msg` wrapped in ibc packet to `osmosis contract`. `Osmosis contract` will execute those `sdk.Msg` in the ibc packet.
 
+![Alt text](Ibc-community1.png?raw=true "Title")
+
 
 
 
